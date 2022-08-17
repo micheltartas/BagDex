@@ -1,0 +1,8 @@
+Started GET "/" for 10.0.2.2 at 2022-08-17 00:25:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb (4.5ms)
+Completed 200 OK in 18ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
