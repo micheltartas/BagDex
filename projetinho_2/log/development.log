@@ -919,3 +919,2023 @@ Processing by CitiesController#index as HTML
 Completed 200 OK in 274ms (Views: 248.1ms | ActiveRecord: 1.5ms)
 
 
+Started GET "/" for 10.0.2.2 at 2022-08-30 22:22:27 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb (6.3ms)
+Completed 200 OK in 28ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:22:35 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [14 times] (3.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (32.5ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (40.2ms)
+Completed 200 OK in 45ms (Views: 43.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:53:43 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (3.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 16ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:53:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (6.6ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 17ms (Views: 15.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:53:59 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (3.4ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (4.0ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 19ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:54:00 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (3.4ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.7ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:54:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (3.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (4.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:54:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (7.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (15.4ms)
+Completed 200 OK in 23ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:54:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (9.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 21ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:54:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (5.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.1ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (12.9ms)
+Completed 200 OK in 17ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/routes" for 10.0.2.2 at 2022-08-30 22:54:02 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::InfoController#routes as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application
+  Rendered collection of /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb [23 times] (3.3ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/actionpack-5.2.8.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.7ms)
+  Rendered /home/vagrant/.rvm/gems/ruby-2.6.10/gems/railties-5.2.8.1/lib/rails/templates/rails/info/routes.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 11ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-30 22:54:15 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 566ms (Views: 555.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-30 22:58:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 38ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-30 22:58:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 46ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-30 23:02:24 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (32.7ms)
+Completed 200 OK in 90ms (Views: 63.5ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/cities/1" for 10.0.2.2 at 2022-08-30 23:02:26 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mCity Load (0.6ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/show.html.erb within layouts/application
+  Rendered cities/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 55ms (Views: 36.6ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-30 23:02:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 41ms (Views: 36.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cities/1" for 10.0.2.2 at 2022-08-30 23:05:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mCity Load (2.0ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/show.html.erb within layouts/application
+  Rendered cities/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 45ms (Views: 32.2ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/cities/1/edit" for 10.0.2.2 at 2022-08-30 23:05:51 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/edit.html.erb within layouts/application
+  Rendered cities/_form.html.erb (60.8ms)
+  Rendered cities/edit.html.erb within layouts/application (79.6ms)
+Completed 200 OK in 122ms (Views: 111.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-30 23:05:53 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.9ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 50ms (Views: 42.8ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-30 23:06:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 54ms (Views: 37.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-30 23:06:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.3ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 38ms (Views: 33.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/cities/1/edit" for 10.0.2.2 at 2022-08-30 23:06:34 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mCity Load (0.8ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/edit.html.erb within layouts/application
+  Rendered cities/_form.html.erb (1.9ms)
+  Rendered cities/edit.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 46ms (Views: 39.0ms | ActiveRecord: 0.8ms)
+
+
+Started PATCH "/cities/1" for 10.0.2.2 at 2022-08-30 23:06:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CYweYwi4wFo9Wh4ekYwwn3L12IQtNf3qH62mAC7Emf1Se/vqjuNVNz2sD8AuPg9jqweyuliNga6KyLLTJsiY1Q==", "city"=>{"description"=>"Chapecó", "code"=>"89850000", "image"=>"http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQpdFlf8yGILDhLL83DFuQhde8WQ7b-EgBF5dOiFkzGwnIKxQTqjCLDEiiVRSMe1an3"}, "commit"=>"Update City", "id"=>"1"}
+  [1m[36mCity Load (0.6ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:40
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/cities_controller.rb:40
+Redirected to http://localhost:3000/cities/1
+Completed 302 Found in 4ms (ActiveRecord: 0.7ms)
+
+
+Started GET "/cities/1" for 10.0.2.2 at 2022-08-30 23:06:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mCity Load (0.3ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/show.html.erb within layouts/application
+  Rendered cities/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 38ms (Views: 33.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-30 23:06:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 42ms (Views: 38.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-30 23:06:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 55ms (Views: 49.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cities.json" for 10.0.2.2 at 2022-08-30 23:07:15 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as JSON
+  Rendering cities/index.json.jbuilder
+  [1m[36mCity Load (0.3ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.json.jbuilder:1
+  Rendered cities/_city.json.jbuilder (0.6ms)
+  Rendered cities/_city.json.jbuilder (0.2ms)
+  Rendered cities/_city.json.jbuilder (0.2ms)
+  Rendered cities/index.json.jbuilder (9.7ms)
+Completed 200 OK in 31ms (Views: 17.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/states" for 10.0.2.2 at 2022-08-30 23:10:58 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.2.8.1) lib/active_record/migration.rb:579:in `check_pending!'
+activerecord (5.2.8.1) lib/active_record/migration.rb:556:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.8.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.4) lib/rack/method_override.rb:24:in `call'
+rack (2.2.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.4) lib/rack/sendfile.rb:110:in `call'
+railties (5.2.8.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+Migrating to CreateStates (20220830231002)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20220830231002_create_states.rb:3
+  [1m[35m (1.5ms)[0m  [1m[35mCREATE TABLE "states" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "acronym" varchar, "description" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20220830231002_create_states.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.5ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20220830231002"]]
+  ↳ bin/rails:9
+  [1m[35m (5.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Load (0.5ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+Started GET "/states" for 10.0.2.2 at 2022-08-30 23:12:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by StatesController#index as HTML
+  Rendering states/index.html.erb within layouts/application
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/states/index.html.erb:15
+  Rendered states/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 463ms (Views: 434.8ms | ActiveRecord: 0.7ms)
+
+
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mState Create (1.7ms)[0m  [1m[32mINSERT INTO "states" ("id", "acronym", "description", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["id", 24], ["acronym", "RN"], ["description", "Rio Grande do Norte"], ["created_at", "2022-08-30 23:23:40.502540"], ["updated_at", "2022-08-30 23:23:40.502540"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (1.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:13
+  [1m[36mState Create (1.8ms)[0m  [1m[32mINSERT INTO "states" ("id", "acronym", "description", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["id", 21], ["acronym", "RO"], ["description", "Rondônia"], ["created_at", "2022-08-30 23:23:40.507990"], ["updated_at", "2022-08-30 23:23:40.507990"]]
+  ↳ db/seeds.rb:13
+  [1m[35m (1.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:13
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:14
+  [1m[36mState Create (1.8ms)[0m  [1m[32mINSERT INTO "states" ("id", "acronym", "description", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["id", 22], ["acronym", "RR"], ["description", "Roraima"], ["created_at", "2022-08-30 23:23:40.513141"], ["updated_at", "2022-08-30 23:23:40.513141"]]
+  ↳ db/seeds.rb:14
+  [1m[35m (1.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:14
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mState Create (1.8ms)[0m  [1m[32mINSERT INTO "states" ("id", "acronym", "description", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["id", 23], ["acronym", "RS"], ["description", "Rio Grande do Sul"], ["created_at", "2022-08-30 23:23:40.518795"], ["updated_at", "2022-08-30 23:23:40.518795"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:16
+  [1m[36mState Create (0.6ms)[0m  [1m[32mINSERT INTO "states" ("id", "acronym", "description", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["id", 24], ["acronym", "SC"], ["description", "Santa Catarina"], ["created_at", "2022-08-30 23:23:40.524311"], ["updated_at", "2022-08-30 23:23:40.524311"]]
+  ↳ db/seeds.rb:16
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ db/seeds.rb:16
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[36mState Create (1.6ms)[0m  [1m[32mINSERT INTO "states" ("id", "acronym", "description", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["id", 20], ["acronym", "RN"], ["description", "Rio Grande do Norte"], ["created_at", "2022-08-30 23:24:07.231180"], ["updated_at", "2022-08-30 23:24:07.231180"]]
+  ↳ db/seeds.rb:12
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:12
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:13
+  [1m[36mState Create (0.6ms)[0m  [1m[32mINSERT INTO "states" ("id", "acronym", "description", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["id", 21], ["acronym", "RO"], ["description", "Rondônia"], ["created_at", "2022-08-30 23:24:07.236792"], ["updated_at", "2022-08-30 23:24:07.236792"]]
+  ↳ db/seeds.rb:13
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ db/seeds.rb:13
+Started GET "/states" for 10.0.2.2 at 2022-08-30 23:24:32 +0000
+Started GET "/states" for 10.0.2.2 at 2022-08-30 23:24:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by StatesController#index as HTML
+Processing by StatesController#index as HTML
+  Rendering states/index.html.erb within layouts/application
+  Rendering states/index.html.erb within layouts/application
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/states/index.html.erb:15
+  ↳ app/views/states/index.html.erb:15
+  Rendered states/index.html.erb within layouts/application (10.6ms)
+  Rendered states/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 263ms (Views: 248.3ms | ActiveRecord: 0.4ms)
+
+
+Completed 200 OK in 269ms (Views: 255.0ms | ActiveRecord: 1.4ms)
+
+
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+Migrating to AddStateToCities (20220831000356)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:9
+  [1m[35m (1.7ms)[0m  [1m[35mALTER TABLE "cities" ADD "state_id" integer[0m
+  ↳ db/migrate/20220831000356_add_state_to_cities.rb:3
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20220831000356_add_state_to_cities.rb:3
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE  INDEX "index_cities_on_state_id" ON "cities" ("state_id")[0m
+  ↳ db/migrate/20220831000356_add_state_to_cities.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.5ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20220831000356"]]
+  ↳ bin/rails:9
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:9
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+Started GET "/states" for 10.0.2.2 at 2022-08-31 00:07:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by StatesController#index as HTML
+  Rendering states/index.html.erb within layouts/application
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/states/index.html.erb:15
+  Rendered states/index.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 248ms (Views: 234.3ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/states" for 10.0.2.2 at 2022-08-31 00:07:31 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StatesController#index as HTML
+  Rendering states/index.html.erb within layouts/application
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/states/index.html.erb:15
+  Rendered states/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 61ms (Views: 55.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/states" for 10.0.2.2 at 2022-08-31 00:08:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by StatesController#index as HTML
+  Rendering states/index.html.erb within layouts/application
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/states/index.html.erb:15
+  Rendered states/index.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 258ms (Views: 241.3ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:09:04 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 62ms (Views: 51.0ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:09:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (12.6ms)
+  Rendered cities/new.html.erb within layouts/application (16.1ms)
+Completed 200 OK in 88ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:09:51 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ur6u8jHNwDNNwjQ/vUflBY7BdpD1JAu5psEUeYQUcyduJC+zqA3wgUMVj0YyWQsFByGoBO5jhmEaQXCCQ86Pfg==", "city"=>{"description"=>"Canela", "code"=>"95680000", "image"=>"https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/159371-1000-1000/Canela-em-Pau-100g.png?v=637075151284870000"}, "commit"=>"Create City"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[36mCity Create (7.7ms)[0m  [1m[32mINSERT INTO "cities" ("description", "code", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["description", "Canela"], ["code", 95680000], ["image", "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/159371-1000-1000/Canela-em-Pau-100g.png?v=637075151284870000"], ["created_at", "2022-08-31 00:09:51.143147"], ["updated_at", "2022-08-31 00:09:51.143147"]]
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+Redirected to http://localhost:3000/cities/4
+Completed 302 Found in 16ms (ActiveRecord: 10.2ms)
+
+
+Started GET "/cities/4" for 10.0.2.2 at 2022-08-31 00:09:51 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/show.html.erb within layouts/application
+  Rendered cities/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 51ms (Views: 43.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:09:52 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 43ms (Views: 39.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:13:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (10.7ms)
+  Rendered cities/new.html.erb within layouts/application (15.2ms)
+Completed 200 OK in 271ms (Views: 246.0ms | ActiveRecord: 1.1ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:14:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+aCeV9oo+7wpHFtkg2Qx+pbpxBtZTe4jMWKH432OSEYtOh8WQ+jLDifL4B0Met/6Hwkaj0IKY/uN4uMYulS0Hw==", "city"=>{"description"=>"Gramado", "code"=>"95680001", "image"=>"https://realgramas.com.br/admin/app/webroot/img/medias/grama-esmeralda-preco-m2-001.webp"}, "commit"=>"Create City"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (1.9ms)
+  Rendered cities/new.html.erb within layouts/application (5.6ms)
+Completed 422 Unprocessable Entity in 72ms (Views: 50.9ms | ActiveRecord: 0.1ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:21:30 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"iRsNcqsT9wvAJjHieQQAsd95BqDH9e5XEFDz7VH9Snj8BXQQf4OvnWhDb605igTM5OtJehYZcmqJH0OTk33YQQ==", "city"=>{"description"=>"Gramado", "code"=>"95680001", "image"=>"https://realgramas.com.br/admin/app/webroot/img/medias/grama-esmeralda-preco-m2-001.webp"}, "commit"=>"Create City"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (10.1ms)
+  Rendered cities/new.html.erb within layouts/application (15.4ms)
+Completed 500 Internal Server Error in 55ms (ActiveRecord: 1.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `map' for nil:NilClass):
+    30:     <%= form.label :state %>
+    31:     <%# <% form.select("state_id", State.all.collect {|s| [s.description, s.id]}, {include_blank: 'Selecione...'}) %> %>
+    32:     <%# <% form.select("state_id", State.all.pluck {:description, s.id]}, {include_blank: 'Selecione...'}) %> %>
+    33:     <%= form.select("state_id", @state_options, {include_blank: 'Selecione...'}) %>
+    34:   </div>
+    35: 
+    36:   <div class="actions">
+  
+app/views/cities/_form.html.erb:33:in `block in _app_views_cities__form_html_erb__3278630524156175293_47157924442360'
+app/views/cities/_form.html.erb:1:in `_app_views_cities__form_html_erb__3278630524156175293_47157924442360'
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__4568114616607585820_47157924369040'
+app/controllers/cities_controller.rb:31:in `block (2 levels) in create'
+app/controllers/cities_controller.rb:26:in `create'
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:22:26 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"iRsNcqsT9wvAJjHieQQAsd95BqDH9e5XEFDz7VH9Snj8BXQQf4OvnWhDb605igTM5OtJehYZcmqJH0OTk33YQQ==", "city"=>{"description"=>"Gramado", "code"=>"95680001", "image"=>"https://realgramas.com.br/admin/app/webroot/img/medias/grama-esmeralda-preco-m2-001.webp"}, "commit"=>"Create City"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (13.3ms)
+  Rendered cities/new.html.erb within layouts/application (22.8ms)
+Completed 422 Unprocessable Entity in 252ms (Views: 220.5ms | ActiveRecord: 2.2ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:22:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"2JV4Cy1EVDnr4G/0s+qoiRwBWLNmym3nsroH6XXDYTWtiwFp+dQMr0OFMbvzZKz0J5MXabcm8dor9beXt0PzDA==", "city"=>{"description"=>"Gramado", "code"=>"95680001", "image"=>"https://realgramas.com.br/admin/app/webroot/img/medias/grama-esmeralda-preco-m2-001.webp"}, "commit"=>"Create City"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (1.6ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (5.0ms)
+  Rendered cities/new.html.erb within layouts/application (8.2ms)
+Completed 422 Unprocessable Entity in 55ms (Views: 48.2ms | ActiveRecord: 1.8ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:22:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"nt71lm0WpAxA60qbRHUUiun2X8BEsqktHNsmBVUtWO7rwIz0uYb8muiOFNQE+xD30mQQGpVeNRCFlJZ7l63K1w==", "city"=>{"description"=>"Gramado", "code"=>"95680001", "image"=>"https://realgramas.com.br/admin/app/webroot/img/medias/grama-esmeralda-preco-m2-001.webp"}, "commit"=>"Create City"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (3.7ms)
+  Rendered cities/new.html.erb within layouts/application (8.4ms)
+Completed 422 Unprocessable Entity in 59ms (Views: 56.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:23:22 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 255ms (Views: 239.5ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:23:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.7ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (25.0ms)
+  Rendered cities/new.html.erb within layouts/application (29.2ms)
+Completed 200 OK in 69ms (Views: 63.5ms | ActiveRecord: 2.0ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:23:50 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+VCpoTAI7NuMU1ogW5ehqQTXcGMs3djd8HLrmpfhmygtyijgqcjcaYKE4VnUiU+pjTeu9zeaVQVM8o9hUDtncQ==", "city"=>{"description"=>"Gramado", "code"=>"1", "image"=>"", "state_id"=>"23"}, "commit"=>"Create City"}
+Unpermitted parameter: :state_id
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (4.2ms)
+  Rendered cities/new.html.erb within layouts/application (8.3ms)
+Completed 422 Unprocessable Entity in 91ms (Views: 80.3ms | ActiveRecord: 0.7ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:23:54 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"pfs9RA/DC49CbX8J0MFAYa0jI1YK5YE23lUMb4dS8o7Q5UQm21NTGeoIIUaQT0QclrFsjNsJHQtHGrwRRdJgtw==", "city"=>{"description"=>"Gramado", "code"=>"1", "image"=>"", "state_id"=>"21"}, "commit"=>"Create City"}
+Unpermitted parameter: :state_id
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.7ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (4.7ms)
+  Rendered cities/new.html.erb within layouts/application (8.5ms)
+Completed 422 Unprocessable Entity in 65ms (Views: 60.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:24:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 54ms (Views: 48.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:24:08 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (0.6ms)
+  Rendered cities/new.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ',', expecting '}'
+... State.all.pluck {:description, s.id]}, {include_blank: 'Sel...
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ']', expecting ')'
+....all.pluck {:description, s.id]}, {include_blank: 'Selecione...
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ')', expecting end
+...clude_blank: 'Selecione...'}) );@output_buffer.safe_append='
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:41: syntax error, unexpected ensure, expecting end-of-input
+          ensure
+          ^~~~~~):
+  
+app/views/cities/_form.html.erb:32: syntax error, unexpected ',', expecting '}'
+app/views/cities/_form.html.erb:32: syntax error, unexpected ']', expecting ')'
+app/views/cities/_form.html.erb:32: syntax error, unexpected ')', expecting end
+app/views/cities/_form.html.erb:41: syntax error, unexpected ensure, expecting end-of-input
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__4312765754736350244_70349397998540'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:24:58 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (0.6ms)
+  Rendered cities/new.html.erb within layouts/application (5.4ms)
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ',', expecting '}'
+... State.all.pluck {:description, s.id]}, {include_blank: 'Sel...
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ']', expecting ')'
+....all.pluck {:description, s.id]}, {include_blank: 'Selecione...
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ')', expecting end
+...clude_blank: 'Selecione...'}) );@output_buffer.safe_append='
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:41: syntax error, unexpected ensure, expecting end-of-input
+          ensure
+          ^~~~~~):
+  
+app/views/cities/_form.html.erb:32: syntax error, unexpected ',', expecting '}'
+app/views/cities/_form.html.erb:32: syntax error, unexpected ']', expecting ')'
+app/views/cities/_form.html.erb:32: syntax error, unexpected ')', expecting end
+app/views/cities/_form.html.erb:41: syntax error, unexpected ensure, expecting end-of-input
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__4312765754736350244_70349350855380'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:24:59 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (0.6ms)
+  Rendered cities/new.html.erb within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ',', expecting '}'
+... State.all.pluck {:description, s.id]}, {include_blank: 'Sel...
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ']', expecting ')'
+....all.pluck {:description, s.id]}, {include_blank: 'Selecione...
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ')', expecting end
+...clude_blank: 'Selecione...'}) );@output_buffer.safe_append='
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:41: syntax error, unexpected ensure, expecting end-of-input
+          ensure
+          ^~~~~~):
+  
+app/views/cities/_form.html.erb:32: syntax error, unexpected ',', expecting '}'
+app/views/cities/_form.html.erb:32: syntax error, unexpected ']', expecting ')'
+app/views/cities/_form.html.erb:32: syntax error, unexpected ')', expecting end
+app/views/cities/_form.html.erb:41: syntax error, unexpected ensure, expecting end-of-input
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__4312765754736350244_70349386810660'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:24:59 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (0.6ms)
+  Rendered cities/new.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ',', expecting '}'
+... State.all.pluck {:description, s.id]}, {include_blank: 'Sel...
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ']', expecting ')'
+....all.pluck {:description, s.id]}, {include_blank: 'Selecione...
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:32: syntax error, unexpected ')', expecting end
+...clude_blank: 'Selecione...'}) );@output_buffer.safe_append='
+...                              ^
+/vagrant/projetinho_2/app/views/cities/_form.html.erb:41: syntax error, unexpected ensure, expecting end-of-input
+          ensure
+          ^~~~~~):
+  
+app/views/cities/_form.html.erb:32: syntax error, unexpected ',', expecting '}'
+app/views/cities/_form.html.erb:32: syntax error, unexpected ']', expecting ')'
+app/views/cities/_form.html.erb:32: syntax error, unexpected ')', expecting end
+app/views/cities/_form.html.erb:41: syntax error, unexpected ensure, expecting end-of-input
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__4312765754736350244_70349396437840'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:25:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.9ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (7.7ms)
+  Rendered cities/new.html.erb within layouts/application (12.7ms)
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 0.9ms)
+
+
+  
+ActionView::Template::Error (undefined method `map' for nil:NilClass):
+    30:     <%= form.label :state %>
+    31:     <%= form.select("state_id", State.all.collect {|s| [s.description, s.id]}, {include_blank: 'Selecione...'}) %>
+    32: 
+    33:     <%= form.select("state_id", @state_options, {include_blank: 'Selecione...'}) %>
+    34:   </div>
+    35: 
+    36:   <div class="actions">
+  
+app/views/cities/_form.html.erb:33:in `block in _app_views_cities__form_html_erb___4537271854757941177_70349349828000'
+app/views/cities/_form.html.erb:1:in `_app_views_cities__form_html_erb___4537271854757941177_70349349828000'
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__4312765754736350244_70349349793900'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:25:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (6.5ms)
+  Rendered cities/new.html.erb within layouts/application (9.9ms)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (undefined method `map' for nil:NilClass):
+    30:     <%= form.label :state %>
+    31:     <%= form.select("state_id", State.all.collect {|s| [s.description, s.id]}, {include_blank: 'Selecione...'}) %>
+    32: 
+    33:     <%= form.select("state_id", @state_options, {include_blank: 'Selecione...'}) %>
+    34:   </div>
+    35: 
+    36:   <div class="actions">
+  
+app/views/cities/_form.html.erb:33:in `block in _app_views_cities__form_html_erb___4537271854757941177_70349351032640'
+app/views/cities/_form.html.erb:1:in `_app_views_cities__form_html_erb___4537271854757941177_70349351032640'
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__4312765754736350244_70349350997260'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:25:07 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (7.1ms)
+  Rendered cities/new.html.erb within layouts/application (10.8ms)
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (undefined method `map' for nil:NilClass):
+    30:     <%= form.label :state %>
+    31:     <%= form.select("state_id", State.all.collect {|s| [s.description, s.id]}, {include_blank: 'Selecione...'}) %>
+    32: 
+    33:     <%= form.select("state_id", @state_options, {include_blank: 'Selecione...'}) %>
+    34:   </div>
+    35: 
+    36:   <div class="actions">
+  
+app/views/cities/_form.html.erb:33:in `block in _app_views_cities__form_html_erb___4537271854757941177_70349484039240'
+app/views/cities/_form.html.erb:1:in `_app_views_cities__form_html_erb___4537271854757941177_70349484039240'
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__4312765754736350244_47145606479380'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:25:14 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.6ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (25.0ms)
+  Rendered cities/new.html.erb within layouts/application (28.6ms)
+Completed 500 Internal Server Error in 66ms (ActiveRecord: 2.5ms)
+
+
+  
+ActionView::Template::Error (undefined method `map' for nil:NilClass):
+    30:     <%= form.label :state %>
+    31:     <%= form.select("state_id", State.all.collect {|s| [s.description, s.id]}, {include_blank: 'Selecione...'}) %>
+    32: 
+    33:     <%= form.select("state_id", @state_options, {include_blank: 'Selecione...'}) %>
+    34:   </div>
+    35: 
+    36:   <div class="actions">
+  
+app/views/cities/_form.html.erb:33:in `block in _app_views_cities__form_html_erb__3131077673453812465_47458971457940'
+app/views/cities/_form.html.erb:1:in `_app_views_cities__form_html_erb__3131077673453812465_47458971457940'
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__2353923793105428900_47458970345840'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:25:15 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (7.1ms)
+  Rendered cities/new.html.erb within layouts/application (11.7ms)
+Completed 500 Internal Server Error in 30ms (ActiveRecord: 0.5ms)
+
+
+  
+ActionView::Template::Error (undefined method `map' for nil:NilClass):
+    30:     <%= form.label :state %>
+    31:     <%= form.select("state_id", State.all.collect {|s| [s.description, s.id]}, {include_blank: 'Selecione...'}) %>
+    32: 
+    33:     <%= form.select("state_id", @state_options, {include_blank: 'Selecione...'}) %>
+    34:   </div>
+    35: 
+    36:   <div class="actions">
+  
+app/views/cities/_form.html.erb:33:in `block in _app_views_cities__form_html_erb__3131077673453812465_47458966403120'
+app/views/cities/_form.html.erb:1:in `_app_views_cities__form_html_erb__3131077673453812465_47458966403120'
+app/views/cities/new.html.erb:3:in `_app_views_cities_new_html_erb__2353923793105428900_47458965711760'
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:25:32 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (25.0ms)
+  Rendered cities/new.html.erb within layouts/application (30.6ms)
+Completed 200 OK in 283ms (Views: 252.3ms | ActiveRecord: 2.9ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:25:34 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YypTJ2avD6moFZwWS30Pp4LG6+/MqEb2bjUIsk8mmTYWNCpFsj9XPwBwwlkL8wvauVSkNR1E2sv3erjMjaYLDw==", "city"=>{"description"=>"", "code"=>"", "image"=>"", "state_id"=>"20"}, "commit"=>"Create City"}
+Unpermitted parameter: :state_id
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (3.6ms)
+  Rendered cities/new.html.erb within layouts/application (8.9ms)
+Completed 422 Unprocessable Entity in 59ms (Views: 49.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:29:16 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 233ms (Views: 218.8ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:29:18 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  Rendering cities/new.html.erb within layouts/application
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT "states".* FROM "states"[0m
+  ↳ app/views/cities/_form.html.erb:31
+  Rendered cities/_form.html.erb (22.5ms)
+  Rendered cities/new.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 75ms (Views: 63.2ms | ActiveRecord: 1.3ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:29:43 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"wUGx+QeHE1r8aWo9+4cM75XF6xJCPOUX5/8w5mE1I80V2zC4nkcj6PK+0UR0meLvHCU1hll7aM9bf1Qdpu/flA==", "city"=>{"description"=>"Gramado", "code"=>"1", "image"=>"https://realgramas.com.br/admin/app/webroot/img/medias/grama-esmeralda-preco-m2-001.webp", "state_id"=>"23"}, "commit"=>"Create City"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[36mCity Create (2.1ms)[0m  [1m[32mINSERT INTO "cities" ("description", "code", "image", "created_at", "updated_at", "state_id") VALUES (?, ?, ?, ?, ?, ?)[0m  [["description", "Gramado"], ["code", 1], ["image", "https://realgramas.com.br/admin/app/webroot/img/medias/grama-esmeralda-preco-m2-001.webp"], ["created_at", "2022-08-31 00:29:43.549261"], ["updated_at", "2022-08-31 00:29:43.549261"], ["state_id", 23]]
+  ↳ app/controllers/cities_controller.rb:27
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/cities_controller.rb:27
+Redirected to http://localhost:3000/cities/5
+Completed 302 Found in 23ms (ActiveRecord: 4.8ms)
+
+
+Started GET "/cities/5" for 10.0.2.2 at 2022-08-31 00:29:43 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/show.html.erb within layouts/application
+  Rendered cities/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 87ms (Views: 81.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:29:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (12.4ms)
+Completed 500 Internal Server Error in 22ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb__1896075822271496766_70216514961040'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__1896075822271496766_70216514961040'
+Started GET "/cities/5" for 10.0.2.2 at 2022-08-31 00:29:57 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/show.html.erb within layouts/application
+  Rendered cities/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 47ms (Views: 40.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:30:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb__1896075822271496766_70216516677760'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__1896075822271496766_70216516677760'
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:30:03 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (6.1ms)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.5ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb__1896075822271496766_70216510377420'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__1896075822271496766_70216510377420'
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:30:04 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (5.5ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb__1896075822271496766_70216441418540'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__1896075822271496766_70216441418540'
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:31:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (5.2ms)
+Completed 500 Internal Server Error in 33ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb__1896075822271496766_70216374833240'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__1896075822271496766_70216374833240'
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:31:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (6.2ms)
+Completed 500 Internal Server Error in 31ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb__1896075822271496766_70216374338040'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__1896075822271496766_70216374338040'
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:31:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (15.0ms)
+Completed 500 Internal Server Error in 45ms (ActiveRecord: 1.5ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb__3410016416909663691_47085529115640'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__3410016416909663691_47085529115640'
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:32:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.3ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (5.4ms)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.3ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb__3410016416909663691_47085532104140'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__3410016416909663691_47085532104140'
+Started GET "/cities.json" for 10.0.2.2 at 2022-08-31 00:33:24 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as JSON
+  Rendering cities/index.json.jbuilder
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.json.jbuilder:1
+  Rendered cities/_city.json.jbuilder (0.6ms)
+  Rendered cities/_city.json.jbuilder (0.2ms)
+  Rendered cities/_city.json.jbuilder (0.2ms)
+  Rendered cities/_city.json.jbuilder (0.2ms)
+  Rendered cities/_city.json.jbuilder (0.2ms)
+  Rendered cities/index.json.jbuilder (9.5ms)
+Completed 200 OK in 28ms (Views: 17.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cities/5" for 10.0.2.2 at 2022-08-31 00:33:49 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mCity Load (1.1ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/show.html.erb within layouts/application
+  Rendered cities/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 250ms (Views: 234.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/cities/5/edit" for 10.0.2.2 at 2022-08-31 00:33:52 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#edit as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mCity Load (0.9ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/edit.html.erb within layouts/application
+  Rendered cities/_form.html.erb (14.5ms)
+  Rendered cities/edit.html.erb within layouts/application (19.0ms)
+Completed 500 Internal Server Error in 33ms (ActiveRecord: 0.9ms)
+
+
+  
+ActionView::Template::Error (undefined method `map' for nil:NilClass):
+    30:     <%= form.label :state %>
+    31:     <%#= form.select("state_id", State.all.collect {|s| [s.description, s.id]}, {include_blank: 'Selecione...'}) %>
+    32:     <%#= form.select("state_id", State.all.pluck {:description, s.id]}, {include_blank: 'Selecione...'}) %>
+    33:     <%= form.select("state_id", @state_options, {include_blank: 'Selecione...'}) %>
+    34:   </div>
+    35: 
+    36:   <div class="actions">
+  
+app/views/cities/_form.html.erb:33:in `block in _app_views_cities__form_html_erb___1896266820463107609_70079573083400'
+app/views/cities/_form.html.erb:1:in `_app_views_cities__form_html_erb___1896266820463107609_70079573083400'
+app/views/cities/edit.html.erb:3:in `_app_views_cities_edit_html_erb__1518458211117519471_70079573081140'
+Started GET "/cities/5/edit" for 10.0.2.2 at 2022-08-31 00:35:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#edit as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:63
+  Rendering cities/edit.html.erb within layouts/application
+  Rendered cities/_form.html.erb (15.6ms)
+  Rendered cities/edit.html.erb within layouts/application (20.1ms)
+Completed 500 Internal Server Error in 65ms (ActiveRecord: 2.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `map' for nil:NilClass):
+    30:     <%= form.label :state %>
+    31:     <%#= form.select("state_id", State.all.collect {|s| [s.description, s.id]}, {include_blank: 'Selecione...'}) %>
+    32:     <%#= form.select("state_id", State.all.pluck {:description, s.id]}, {include_blank: 'Selecione...'}) %>
+    33:     <%= form.select("state_id", @state_options, {include_blank: 'Selecione...'}) %>
+    34:   </div>
+    35: 
+    36:   <div class="actions">
+  
+app/views/cities/_form.html.erb:33:in `block in _app_views_cities__form_html_erb__4190799724040973692_46944866229820'
+app/views/cities/_form.html.erb:1:in `_app_views_cities__form_html_erb__4190799724040973692_46944866229820'
+app/views/cities/edit.html.erb:3:in `_app_views_cities_edit_html_erb__2003412270110878284_46944865070620'
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:35:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (11.5ms)
+Completed 500 Internal Server Error in 26ms (ActiveRecord: 0.5ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb___3665383536384861621_70210105069940'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb___3665383536384861621_70210105069940'
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:35:46 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (5.8ms)
+Completed 500 Internal Server Error in 29ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb___3665383536384861621_46944862289740'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb___3665383536384861621_46944862289740'
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:35:46 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (5.6ms)
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb___3665383536384861621_46944864307640'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb___3665383536384861621_46944864307640'
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:35:47 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (6.1ms)
+Completed 500 Internal Server Error in 25ms (ActiveRecord: 0.4ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb___3665383536384861621_46944867381980'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb___3665383536384861621_46944867381980'
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:35:47 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.6ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (6.3ms)
+Completed 500 Internal Server Error in 22ms (ActiveRecord: 0.6ms)
+
+
+  
+ActionView::Template::Error (no implicit conversion of nil into String):
+    20:     <% @cities.each do |city| %>
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= image_tag city.image , size: "100x100" %></td>
+    25:         <td><%= link_to 'Show', city %></td>
+    26:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/helpers/cities_helper.rb:10:in `formata_cep'
+app/views/cities/index.html.erb:23:in `block in _app_views_cities_index_html_erb___3665383536384861621_46944869034400'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb___3665383536384861621_46944869034400'
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:37:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 258ms (Views: 233.6ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:39:28 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+  
+SyntaxError (/vagrant/projetinho_2/app/controllers/cities_controller.rb:74: syntax error, unexpected end-of-input, expecting end):
+  
+app/controllers/cities_controller.rb:74: syntax error, unexpected end-of-input, expecting end
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:39:42 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 245ms (Views: 229.0ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:43:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (22.1ms)
+Completed 500 Internal Server Error in 59ms (ActiveRecord: 1.5ms)
+
+
+  
+ActionView::Template::Error (undefined method `description' for nil:NilClass):
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= city.state.description %></td>
+    25:         <td><%= image_tag city.image , size: "100x100" %></td>
+    26:         <td><%= link_to 'Show', city %></td>
+    27:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/views/cities/index.html.erb:24:in `block in _app_views_cities_index_html_erb___3180188634277758117_47376750202560'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb___3180188634277758117_47376750202560'
+Started GET "/cities/1" for 10.0.2.2 at 2022-08-31 00:44:00 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:64
+Completed 404 Not Found in 4ms (ActiveRecord: 0.4ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find City with 'id'=1):
+  
+app/controllers/cities_controller.rb:64:in `set_city'
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:45:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.7ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (21.4ms)
+Completed 500 Internal Server Error in 48ms (ActiveRecord: 1.5ms)
+
+
+  
+ActionView::Template::Error (undefined method `description' for nil:NilClass):
+    21:       <tr>
+    22:         <td><%= city.description %></td>
+    23:         <td><%= formata_cep(city.code) %></td>
+    24:         <td><%= city.state.description %></td>
+    25:         <td><%= image_tag city.image , size: "100x100" %></td>
+    26:         <td><%= link_to 'Show', city %></td>
+    27:         <td><%= link_to 'Edit', edit_city_path(city) %></td>
+  
+app/views/cities/index.html.erb:24:in `block in _app_views_cities_index_html_erb__508830538533493910_47299537498640'
+app/views/cities/index.html.erb:20:in `_app_views_cities_index_html_erb__508830538533493910_47299537498640'
+Started GET "/cities/" for 10.0.2.2 at 2022-08-31 00:45:58 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 219ms (Views: 213.7ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/cities/2" for 10.0.2.2 at 2022-08-31 00:46:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"ZYVau5mTJVvLh1tWcM4FljbPGTX2SpRB1E4/aKNRKZUQmyPZTQN9zWPiBRkwQAHrDV1W7yemCHxNAY8WYdG7rA==", "id"=>"2"}
+  [1m[36mCity Load (1.2ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:64
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:53
+  [1m[36mCity Destroy (7.5ms)[0m  [1m[31mDELETE FROM "cities" WHERE "cities"."id" = ?[0m  [["id", 2]]
+  ↳ app/controllers/cities_controller.rb:53
+  [1m[35m (1.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/cities_controller.rb:53
+Redirected to http://localhost:3000/cities
+Completed 302 Found in 20ms (ActiveRecord: 10.6ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:46:01 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 47ms (Views: 43.3ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/cities/3" for 10.0.2.2 at 2022-08-31 00:46:03 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"dQM2lJJqjw9/p9+IJOerh5zd5M/btgLSEBenFNlSwhsAHU/2RvrXmdfCgcdkaa/6p0+rFQpanu+JWBdqG9JQIg==", "id"=>"3"}
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:64
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:53
+  [1m[36mCity Destroy (6.0ms)[0m  [1m[31mDELETE FROM "cities" WHERE "cities"."id" = ?[0m  [["id", 3]]
+  ↳ app/controllers/cities_controller.rb:53
+  [1m[35m (3.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/cities_controller.rb:53
+Redirected to http://localhost:3000/cities
+Completed 302 Found in 16ms (ActiveRecord: 9.7ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:46:03 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 48ms (Views: 44.4ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/cities/4" for 10.0.2.2 at 2022-08-31 00:46:05 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"bEbU3Eb61pCYHoJvYZZCvzDV5VLvV4Z+kgwv2J+h5VwZWK2+kmqOBjB73CAhGEbCC0eqiD67GkMLQ5+mXSF3ZQ==", "id"=>"4"}
+  [1m[36mCity Load (0.7ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:64
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:53
+  [1m[36mCity Destroy (6.1ms)[0m  [1m[31mDELETE FROM "cities" WHERE "cities"."id" = ?[0m  [["id", 4]]
+  ↳ app/controllers/cities_controller.rb:53
+  [1m[35m (1.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/cities_controller.rb:53
+Redirected to http://localhost:3000/cities
+Completed 302 Found in 16ms (ActiveRecord: 8.4ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:46:05 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.6ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 55ms (Views: 50.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/cities/new" for 10.0.2.2 at 2022-08-31 00:46:06 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#new as HTML
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "states"."description", "states"."id" FROM "states"[0m
+  ↳ app/controllers/cities_controller.rb:73
+  Rendering cities/new.html.erb within layouts/application
+  Rendered cities/_form.html.erb (18.6ms)
+  Rendered cities/new.html.erb within layouts/application (22.1ms)
+Completed 200 OK in 71ms (Views: 63.8ms | ActiveRecord: 1.1ms)
+
+
+Started POST "/cities" for 10.0.2.2 at 2022-08-31 00:46:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"zVp6KQtSKH2X3tPTIywen6xTRLAKrUutAwplW25UfPoZwPtokpIYz5kJaKqsMvCfJbOaJBHqxnW/igGgqY6Aow==", "city"=>{"description"=>"Chapecó", "code"=>"9506800000", "image"=>"", "state_id"=>"23"}, "commit"=>"Create City"}
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "states"."description", "states"."id" FROM "states"[0m
+  ↳ app/controllers/cities_controller.rb:73
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/cities_controller.rb:28
+  [1m[36mState Load (0.1ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:28
+  [1m[36mCity Create (8.0ms)[0m  [1m[32mINSERT INTO "cities" ("description", "code", "image", "created_at", "updated_at", "state_id") VALUES (?, ?, ?, ?, ?, ?)[0m  [["description", "Chapecó"], ["code", 9506800000], ["image", ""], ["created_at", "2022-08-31 00:46:38.105481"], ["updated_at", "2022-08-31 00:46:38.105481"], ["state_id", 23]]
+  ↳ app/controllers/cities_controller.rb:28
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/cities_controller.rb:28
+Redirected to http://localhost:3000/cities/6
+Completed 302 Found in 43ms (ActiveRecord: 11.5ms)
+
+
+Started GET "/cities/6" for 10.0.2.2 at 2022-08-31 00:46:38 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mCity Load (0.7ms)[0m  [1m[34mSELECT  "cities".* FROM "cities" WHERE "cities"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/cities_controller.rb:64
+  Rendering cities/show.html.erb within layouts/application
+  Rendered cities/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 42ms (Views: 37.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:46:39 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  Rendered cities/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 50ms (Views: 45.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:46:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.2ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 60ms (Views: 49.0ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:09 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.2ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 49ms (Views: 37.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:17 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (26.6ms)
+Completed 200 OK in 274ms (Views: 252.9ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:18 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.3ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 54ms (Views: 49.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:19 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.1ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 72ms (Views: 66.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:19 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.3ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 52ms (Views: 47.3ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:20 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.2ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 57ms (Views: 52.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:20 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (1.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.3ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 52ms (Views: 46.8ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.2ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 62ms (Views: 47.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 68ms (Views: 61.0ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:21 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.1ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 52ms (Views: 47.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:22 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.3ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.1ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 43ms (Views: 39.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:23 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.6ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 53ms (Views: 46.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:24 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 66ms (Views: 61.2ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.3ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 61ms (Views: 56.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 00:47:25 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.3ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.1ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 48ms (Views: 43.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:53:14 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:53:14 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 120ms (Views: 116.4ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 269ms (Views: 262.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:55:24 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 217ms (Views: 209.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:58:29 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (725.7ms)
+Completed 200 OK in 786ms (Views: 765.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:59:41 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 47ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:59:54 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 45ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:59:55 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 50ms (Views: 46.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:59:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 64ms (Views: 46.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:59:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 47ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:59:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 39ms (Views: 34.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 00:59:56 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 38ms (Views: 34.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 01:00:05 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (138.0ms)
+Completed 200 OK in 328ms (Views: 321.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.0.2.2 at 2022-08-31 01:04:36 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (144.7ms)
+Completed 200 OK in 346ms (Views: 329.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 01:04:40 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.6ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (30.6ms)
+Completed 200 OK in 88ms (Views: 72.1ms | ActiveRecord: 2.7ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 01:12:44 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /home/vagrant/.rvm/gems/ruby-2.6.10/gems/activerecord-5.2.8.1/lib/active_record/log_subscriber.rb:98
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.5ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.5ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (160.4ms)
+Completed 200 OK in 363ms (Views: 337.1ms | ActiveRecord: 2.5ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 01:12:48 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.4ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 76ms (Views: 69.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/cities" for 10.0.2.2 at 2022-08-31 01:13:37 +0000
+Cannot render console from 10.0.2.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CitiesController#index as HTML
+  Rendering cities/index.html.erb within layouts/application
+  [1m[36mCity Load (0.4ms)[0m  [1m[34mSELECT "cities".* FROM "cities"[0m
+  ↳ app/views/cities/index.html.erb:20
+  [1m[36mState Load (0.2ms)[0m  [1m[34mSELECT  "states".* FROM "states" WHERE "states"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ app/views/cities/index.html.erb:24
+  Rendered cities/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 54ms (Views: 46.8ms | ActiveRecord: 0.6ms)
+
+

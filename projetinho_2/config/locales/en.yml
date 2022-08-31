@@ -31,3 +31,10 @@
 
 en:
   hello: "Hello world"
+  language: "English"
+  welcome: "Welcome"
+  city: "City"
+  links:
+    show: "Show"
+    edit: "Edit"
+    destroy: "Destroy"

@@ -21,10 +21,11 @@
       <tr>
         <td><%= city.description %></td>
         <td><%= formata_cep(city.code) %></td>
-        <td><%= image_tag city.image , size: "25x25" %></td>
-        <td><%= link_to 'Show', city %></td>
-        <td><%= link_to 'Edit', edit_city_path(city) %></td>
-        <td><%= link_to 'Destroy', city, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= city.state.description %></td>
+        <td><%= image_tag city.image , size: "100x100" %></td>
+        <td><%= link_to t('links.show'), city %></td>
+        <td><%= link_to t('links.edit'), edit_city_path(city) %></td>
+        <td><%= link_to t('links.destroy'), city, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
   </tbody>

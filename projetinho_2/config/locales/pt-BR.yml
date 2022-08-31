@@ -1,0 +1,9 @@
+pt-BR:
+  hello: "Olá Mundo"
+  language: "Português do Brasil"
+  welcome: "Bem vindo"
+  city: "Cidade"
+  links:
+    show: "Mostrar"
+    edit: "Editar"
+    destroy: "Excluir"
