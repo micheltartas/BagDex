@@ -1,14 +1,5 @@
 {
-  "name": "BagDex",
+  "name": "projetinho_2",
   "private": true,
-  "dependencies": {
-    "jquery": "^3.6.1",
-    "materialize-css": "^1.0.0-rc.2",
-    "notify-js-legacy": "^0.4.1"
-  },
-  "version": "1.0.0",
-  "description": "BagDex App",
-  "main": "index.js",
-  "author": "Michel Tartas",
-  "license": "MIT"
+  "dependencies": {}
 }
